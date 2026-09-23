@@ -23,7 +23,7 @@ I am passionate about creating reliable and scalable software solutions. I pay a
 
 ## Projects
 
-<h1><a href="https://github.com/zeal1ng/ServiceCrm">ServiceCrm Repository</a></h1>
+<h2><a href="https://github.com/zeal1ng/ServiceCrm">ServiceCrm Repository</a></h2>
 
 CRM system for managing a service center
 
@@ -32,7 +32,7 @@ CRM system for managing a service center
 - Dark turquoise-green color scheme with a minimalist interface
 - Stack: C#, ASP.NET Core, React, PostgreSQL
 
-### ToDo-Manager
+<h2><a href="https://github.com/zeal1ng/ToDo-Manager">ToDo-Manager</a></h2>
 
 Task management application
 
@@ -40,7 +40,7 @@ Task management application
 - Integration with a database to save progress
 - Stack: C#, JavaScript, CSS
 
-### ShoesProd
+<h2><a href="https://github.com/zeal1ng/ShoesProd">ShoesProd</a></h2>
 
 Product management project
 
@@ -87,7 +87,7 @@ Product management project
 
 ## Проекты
 
-### ServiceCrm
+<h2><a href="https://github.com/zeal1ng/ServiceCrm">ServiceCrm Repository</a></h2>
 
 CRM-система для управления сервисным центром
 
@@ -96,7 +96,7 @@ CRM-система для управления сервисным центром
 - Темная бирюзово-зеленая цветовая гамма с минималистичным интерфейсом
 - Стек: C#, ASP.NET Core, React, PostgreSQL
 
-### ToDo-Manager
+<h2><a href="https://github.com/zeal1ng/ToDo-Manager">ToDo-Manager</a></h2>
 
 Приложение для управления задачами
 
@@ -104,7 +104,7 @@ CRM-система для управления сервисным центром
 - Интеграция с базой данных для сохранения прогресса
 - Стек: C#, JavaScript, CSS
 
-### ShoesProd
+<h2><a href="https://github.com/zeal1ng/ShoesProd">ShoesProd</a></h2>
 
 Проект по управлению продукцией
 
