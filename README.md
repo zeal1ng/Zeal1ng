@@ -48,7 +48,7 @@ Product management project
 - Work with inventory and warehouse
 - Stack: C#, HTML, CSS
 
-## Contacts
+##                                                  Contacts
 
 <div align="center">
   <a href="https://t.me/arankaar">
