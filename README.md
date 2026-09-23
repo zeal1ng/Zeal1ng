@@ -23,10 +23,7 @@ I am passionate about creating reliable and scalable software solutions. I pay a
 
 ## Projects
 
-### 🛠️ ServiceCrm
-> CRM-система для управления сервисным центром на стеке React + ASP.NET Core + PostgreSQL.
-
-<a href="https://github.com/zeal1ng/ServiceCrm">Перейти в репозиторий</a>
+<a href="https://github.com/zeal1ng/ServiceCrm">ServiceCrm Repository</a>
 
 CRM system for managing a service center
 
