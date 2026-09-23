@@ -23,7 +23,7 @@ I am passionate about creating reliable and scalable software solutions. I pay a
 
 ## Projects
 
-<a href="https://github.com/zeal1ng/ServiceCrm">ServiceCrm Repository</a>
+<h1><a href="https://github.com/zeal1ng/ServiceCrm">ServiceCrm Repository</a></h1>
 
 CRM system for managing a service center
 
