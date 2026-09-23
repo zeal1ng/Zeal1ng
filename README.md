@@ -50,7 +50,17 @@ Product management project
 
 ## Contacts
 
-[![GitHub](https://img.shields.io/badge/GitHub-zeal1ng-black?style=flat&logo=github)](https://github.com/zeal1ng)
+<div align="center">
+  <a href="https://t.me/arankaar">
+    <img src="https://img.shields.io/badge/Telegram-%40arankaar-blue?style=for-the-badge&logo=telegram" alt="Telegram"/>
+  </a>
+  <a href="mailto:egoraros75@gmail.com">
+    <img src="https://img.shields.io/badge/Email-egoraros75%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email"/>
+  </a>
+  <a href="https://github.com/zeal1ng">
+    <img src="https://img.shields.io/badge/GitHub-zeal1ng-black?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+</div>
 
 # Ярош Егор
 
