@@ -1,16 +1,51 @@
-## Hi there 👋
+# Yarosh Egor
 
-<!--
-**zeal1ng/Zeal1ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Обо мне
 
-Here are some ideas to get you started:
+Меня увлекает создание надежных и масштабируемых программных решений. Особое внимание уделяю чистоте кода, проектированию понятных интерфейсов и оптимизации работы с базами данных. Я умею работать в команде, быстро осваиваю новые инструменты и комфортно чувствую себя в условиях многозадачности. Постоянно развиваюсь в области разработки, изучаю современные технологии и открыт к новым проектам.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Разрабатываю приложения на C#, ASP.NET Core, Java
+- Работаю с реляционными базами данных (PostgreSQL, SQLite, MySQL)
+- Быстро осваиваю новые технологии и инструменты
+
+## Технологии и инструменты
+
+| Категория | Стек |
+| --- | --- |
+| Языки | C#, JavaScript, SQL, Java |
+| Backend | ASP.NET Core, Entity Framework Core, Firebase |
+| Frontend | CSS3 |
+| Базы данных | PostgreSQL, SQLite, Firestore, MySQL |
+| Инструменты | Git, Visual Studio Code, IntellijIDEA |
+| Дополнительно | JWT, REST API, Адаптивный дизайн |
+
+## Проекты
+
+### ServiceCrm
+
+CRM-система для управления сервисным центром
+
+- Автоматизация рабочих процессов сервисной службы
+- Реализация ролевой модели доступа (администратор, менеджер, техник)
+- Темная бирюзово-зеленая цветовая гамма с минималистичным интерфейсом
+- Стек: C#, ASP.NET Core, React, PostgreSQL
+
+### ToDo-Manager
+
+Приложение для управления задачами
+
+- Удобный интерфейс для планирования дел
+- Интеграция с базой данных для сохранения прогресса
+- Стек: C#, JavaScript, CSS
+
+### ShoesProd
+
+Проект по управлению продукцией
+
+- Разработка клиент-серверного взаимодействия
+- Работа с инвентаризацией и складом
+- Стек: C#, HTML, CSS
+
+## Контакты
+
+[![GitHub](https://img.shields.io/badge/GitHub-zeal1ng-black?style=flat&logo=github)](https://github.com/zeal1ng)
