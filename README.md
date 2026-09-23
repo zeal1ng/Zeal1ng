@@ -23,7 +23,7 @@ I am passionate about creating reliable and scalable software solutions. I pay a
 
 ## Projects
 
-<h2><a href="https://github.com/zeal1ng/ServiceCrm">ServiceCrm Repository</a></h2>
+<h2><a href="https://github.com/zeal1ng/ServiceCrm">ServiceCrm</a></h2>
 
 CRM system for managing a service center
 
@@ -88,7 +88,7 @@ Product management project
 
 ## Проекты
 
-<h2><a href="https://github.com/zeal1ng/ServiceCrm">ServiceCrm Repository</a></h2>
+<h2><a href="https://github.com/zeal1ng/ServiceCrm">ServiceCrm</a></h2>
 
 CRM-система для управления сервисным центром
 
