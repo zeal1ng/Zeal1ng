@@ -1,8 +1,64 @@
 # Yarosh Egor
 
+Junior C#, Java developer
+
+## About me
+
+I am passionate about creating reliable and scalable software solutions. I pay attention to code cleanliness, designing intuitive interfaces, and optimizing database operations. I am able to work in a team, quickly master new tools, and feel comfortable in a multitasking environment. I am constantly developing in the field of development, studying modern technologies, and am open to new projects.
+
+- I develop applications in C#, ASP.NET Core, and Java.
+- I work with relational databases (PostgreSQL, SQLite, MySQL).
+- I quickly master new technologies and tools.
+
+## Technologies and tools
+
+| Category | Stack |
+| --- | --- |
+| Languages | C#, JavaScript, SQL, Java |
+| Backend | ASP.NET Core, Entity Framework Core, Firebase |
+| Frontend | CSS3 |
+| Databases | PostgreSQL, SQLite, Firestore, MySQL |
+| Tools | Git, Visual Studio Code, IntelliJ IDEA |
+| Additional | JWT, REST API, Responsive design |
+
+## Projects
+
+### ServiceCrm
+
+CRM system for managing a service center
+
+- Automation of service department workflows
+- Implementation of a role-based access model (administrator, manager, technician)
+- Dark turquoise-green color scheme with a minimalist interface
+- Stack: C#, ASP.NET Core, React, PostgreSQL
+
+### ToDo-Manager
+
+Task management application
+
+- User-friendly interface for planning tasks
+- Integration with a database to save progress
+- Stack: C#, JavaScript, CSS
+
+### ShoesProd
+
+Product management project
+
+- Development of client-server interaction
+- Work with inventory and warehouse
+- Stack: C#, HTML, CSS
+
+## Contacts
+
+[![GitHub](https://img.shields.io/badge/GitHub-zeal1ng-black?style=flat&logo=github)](https://github.com/zeal1ng)
+
+# Ярош Егор
+
+Начинающий C#, Java разработчик
+
 ## Обо мне
 
-Меня увлекает создание надежных и масштабируемых программных решений. Особое внимание уделяю чистоте кода, проектированию понятных интерфейсов и оптимизации работы с базами данных. Я умею работать в команде, быстро осваиваю новые инструменты и комфортно чувствую себя в условиях многозадачности. Постоянно развиваюсь в области разработки, изучаю современные технологии и открыт к новым проектам.
+Меня увлекает создание надежных и масштабируемых программных решений. Внимание уделяю чистоте кода, проектированию понятных интерфейсов и оптимизации работы с базами данных. Я умею работать в команде, быстро осваиваю новые инструменты и комфортно чувствую себя в условиях многозадачности. Постоянно развиваюсь в области разработки, изучаю современные технологии и открыт к новым проектам.
 
 - Разрабатываю приложения на C#, ASP.NET Core, Java
 - Работаю с реляционными базами данных (PostgreSQL, SQLite, MySQL)
